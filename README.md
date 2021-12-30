@@ -12,7 +12,7 @@
 
 I am Sumit Prakash, currently working as a Team Lead(Software Developer) [TAVANT TECHNOLOGY](https://www.tavant.com/). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
-💬 Ask me anything, I will be more than happy to help :D
+💬 Ask me anything, I will be more than happy to help 😊
 <h3>Summary</h3>
 
 [![](https://raw.githubusercontent.com/prakash-sumit/prakash-sumit/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
