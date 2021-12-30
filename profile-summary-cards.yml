@@ -1,1 +1,21 @@
+name: GitHub-Profile-Summary-Cards
 
+on:
+  create:
+  push:
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
+
+    steps:
+      - uses: actions/prakash0510
+      - uses: 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
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
