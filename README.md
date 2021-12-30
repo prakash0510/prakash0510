@@ -15,7 +15,7 @@ I am Sumit Prakash, currently working as a Team Lead(Software Developer) [TAVANT
 💬 Ask me anything, I will be more than happy to help 😊
 <h3>Summary</h3>
 
-[![](https://raw.githubusercontent.com/prakash-sumit/prakash-sumit/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/prakash0510/prakash0510/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
