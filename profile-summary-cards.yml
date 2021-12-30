@@ -16,6 +16,6 @@ jobs:
       - uses: actions/prakash0510
       - uses: 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
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ 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 }}
         with:
           USERNAME: ${{ github.repository_owner }}
