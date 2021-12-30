@@ -16,6 +16,8 @@ I am Sumit Prakash, currently working as a Team Lead(Software Developer) [TAVANT
 <h3>Summary</h3>
 
 [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakash0510)](https://github.com/prakash0510/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash0510&layout=compact)](https://github.com/prakash0510/github-readme-stats)
 <!-- <h3>Summary</h3>
 
 [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
