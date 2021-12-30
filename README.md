@@ -25,6 +25,7 @@ I am Sumit Prakash, currently working as a Team Lead(Software Developer) [TAVANT
 <h2>🛠Tech Stack</h2>
 
 Languages  
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
